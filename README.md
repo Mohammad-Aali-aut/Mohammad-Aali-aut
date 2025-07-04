@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Mohammad-Aali-aut
 - 👀 I’m interested in Mechanical Engineering
-- 🌱 I’m currently learning Nothing
-- 📫 How to reach me (you can't)
-- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Matlab >>>>> Python
 
 <!---
