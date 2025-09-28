@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Mohammad-Aali-aut
-- 👀 I’m interested in Mechanical Engineering
-- ⚡ Fun fact: Matlab >>>>> Python
+-Mechanical Engineering student at Amirkabir University of Technology (Tehran Polytechic)
+-Minoring in Computer Science
+-Interested in control systems, programmign and engineering fundamentals
+
+Linkedin: 
 
 <!---
 Mohammad-Aali-aut/Mohammad-Aali-aut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
