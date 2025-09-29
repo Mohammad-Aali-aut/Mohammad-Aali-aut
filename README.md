@@ -1,5 +1,7 @@
 -Mechanical Engineering student at Amirkabir University of Technology (Tehran Polytechic)
+
 -Minoring in Computer Science
+
 -Interested in control systems, programming and engineering fundamentals
 
 Linkedin: www.linkedin.com/in/mohammad-aali-aut
