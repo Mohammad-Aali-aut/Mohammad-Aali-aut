@@ -2,7 +2,7 @@
 -Minoring in Computer Science
 -Interested in control systems, programmign and engineering fundamentals
 
-Linkedin: 
+Linkedin: www.linkedin.com/in/mohammad-aali-aut
 
 <!---
 Mohammad-Aali-aut/Mohammad-Aali-aut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
